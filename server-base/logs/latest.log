@@ -1,0 +1,40 @@
+[19:20:28] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:20:28] [Server thread/INFO]: Loading properties
+[19:20:28] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:28] [Server thread/INFO]: Generating keypair
+[19:20:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:20:29] [Server thread/INFO]: Using epoll channel type
+[19:20:29] [Server thread/INFO]: Preparing level "world"
+[19:20:29] [Server thread/INFO]: Loaded 488 advancements
+[19:20:31] [Server thread/INFO]: Preparing start region for level 0
+[19:20:32] [Server thread/INFO]: Preparing spawn area: 13%
+[19:20:33] [Server thread/INFO]: Preparing spawn area: 29%
+[19:20:34] [Server thread/INFO]: Preparing spawn area: 45%
+[19:20:35] [Server thread/INFO]: Preparing spawn area: 55%
+[19:20:36] [Server thread/INFO]: Preparing spawn area: 68%
+[19:20:37] [Server thread/INFO]: Preparing spawn area: 81%
+[19:20:38] [Server thread/INFO]: Preparing spawn area: 96%
+[19:20:38] [Server thread/INFO]: Done (9.382s)! For help, type "help" or "?"
+[19:21:04] [Server thread/INFO]: Opped biaY
+[19:21:10] [Server thread/INFO]: Opped ThatLily
+[19:21:15] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:21:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:21:19] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[19:21:19] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[19:21:19] [Server thread/INFO]: /ban <name> [reason ...]
+[19:21:19] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[19:21:19] [Server thread/INFO]: /banlist [ips|players]
+[19:21:19] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[19:21:19] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[19:21:19] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:21:19] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:21:26] [Server thread/INFO]: Stopping server
+[19:21:26] [Server thread/INFO]: Saving players
+[19:21:26] [Server thread/INFO]: Saving worlds
+[19:21:26] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[19:21:26] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[19:21:26] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[19:21:26] [Server Shutdown Thread/INFO]: Stopping server
+[19:21:26] [Server Shutdown Thread/INFO]: Saving players
+[19:21:26] [Server Shutdown Thread/INFO]: Saving worlds
+[19:21:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
